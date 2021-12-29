@@ -31,5 +31,19 @@
 - **Expertise:** Java, HTML5, CSS, JavaScript
 
 #### Youssef
-- **Role:**: Graphics Developer
+- **Role:** Graphics Developer
 - **Expertise:** Java, HTML5, CSS, JavaScript, WebGL, Three.js
+
+### Testing Team
+
+#### Hossam
+- **Role:** Unit Tester
+- **Expertise:** Selenium , JavaScript
+
+#### Ibrahim
+- **Role:** Penetration Tester
+- **Expertise:** SQL Injection, Brute Force
+
+#### Hesham
+- **Role:** Integration Testing
+- **Expertise:** Test design, Test Development, Database Unit
