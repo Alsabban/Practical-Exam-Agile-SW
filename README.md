@@ -54,3 +54,9 @@ In this sprint, the basic UI/UX design of the system should be completed in orde
 **Overview:**
 - Basic UI/UX for the overall system
 - Database design and visualization of manipulation of data
+
+### Second Sprint
+For this sprint, the functionalities of the system including file transfer will be introduced. Including course material uploads, handing in assignments and quiz answers.
+**Overview:**
+- File transfer functionalities to add class materials, assignments and quizzes
+- File modification and deletion functionalities after uploads
