@@ -48,6 +48,13 @@
 - **Role:** Integration Testing
 - **Expertise:** Test design, Test Development, Database Unit
 
+
+## Stakeholders
+- Faculty Staff
+- Students
+- University Board
+- Educational Centres
+
 ## Near Vision
 ### First Sprint
 In this sprint, the basic UI/UX design of the system should be completed in order to have a prototype of the system and introduce the use scenarios of the system. The database will also be designed to show the data manipulation by the system.
