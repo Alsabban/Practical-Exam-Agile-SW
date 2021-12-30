@@ -82,3 +82,35 @@ This project is developed using Test-Driven Developement method. It is the best 
 - The team finishes an average of **53 Story Points**.
 - A sprint takes **2 weeks**.
 
+## Daily meetings examples
+### Meeting 1
+| Members |             Questions            | Monday                                                     | Tuesday                                                       |
+|---------|:--------------------------------:|------------------------------------------------------------|---------------------------------------------------------------|
+|  Samir  |      What will you do today?     | I will design the dashboard for professors                 | I will continue the dashboard design                          |
+|         |    What did you do yesterday?    | I finished the login screen for professors                 | I was working on the Courses screen on the dashboard          |
+|         | Did you encounter any obstacles? | No, I did not                                              | I had a problem with overlapping labels on the courses screen |
+|         |                                  |                                                            |                                                               |
+| Diaa    |      What will you do today?     | I will work on the course starting feature                 | I will work on the save features                              |
+|         |    What did you do yesterday?    | I was working on integrating the database with the backend | I finished the course start feature                           |
+|         | Did you encounter any obstacles? | No, I did not                                              | No, I did not                                                 |
+
+## Meeting 2
+| Members |             Questions            | Monday                                                    | Tuesday                                                            |
+|---------|:--------------------------------:|-----------------------------------------------------------|--------------------------------------------------------------------|
+|  Samir  |      What will you do today?     | I will work on the quiz creation screen                   | I will continue working on the quiz creation screen                |
+|         |    What did you do yesterday?    | I finished the enrolled students screen                   | I was working on the quiz creation screen                          |
+|         | Did you encounter any obstacles? | No, I did not                                             | I had a problem marking correct answers for the quiz on the screen |
+|         |                                  |                                                           |                                                                    |
+| Diaa    |      What will you do today?     | I will work on the unique Student ID generation algorithm | I will work on the Course Enrollment feature                       |
+|         |    What did you do yesterday?    | I was finishing the auto-grading feature for quizzes      | I finished the Student ID generation Algorithm                     |
+|         | Did you encounter any obstacles? | No, I did not                                             | No, I did not                                                      |
+
+## Sprint Document
+### Sprint goal
+For this sprint, the materials and quiz upload features for the professor should be finished. Also, the student login feature should be done too.
+### Sprint backlog
+![Screen Backlog Image](Images/image_2021-12-30_223236.png "Sprint Backlog")
+### Epics to be delivered
+Professor Features
+### Progress of previous sprint
+Created the database and integrated it with the system, completed the professor login feature and screen and finished the course creation feature 
