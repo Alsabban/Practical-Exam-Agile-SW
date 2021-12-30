@@ -84,6 +84,10 @@ This project is developed using Test-Driven Developement method. It is the best 
 - The team finishes an average of **53 Story Points**.
 - A sprint takes **2 weeks**.
 
+## Backlog
+![Sprint Backlog Image](Images/image_2021-12-30_231725.png "Sprint Backlog")
+
+
 ## Daily meetings examples
 ### Meeting 1
 | Members |             Questions            | Monday                                                     | Tuesday                                                       |
@@ -111,7 +115,7 @@ This project is developed using Test-Driven Developement method. It is the best 
 ### Sprint goal
 For this sprint, the materials and quiz upload features for the professor should be finished. Also, the student login feature should be done too.
 ### Sprint backlog
-![Screen Backlog Image](Images/image_2021-12-30_223236.png "Sprint Backlog")
+![Sprint Backlog Image](Images/image_2021-12-30_223236.png "Sprint Backlog")
 ### Epics to be delivered
 Professor Features
 ### Progress of previous sprint
