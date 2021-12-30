@@ -58,13 +58,13 @@
 ## Near Vision
 ### First Sprint
 In this sprint, the basic UI/UX design of the system should be completed in order to have a prototype of the system and introduce the use scenarios of the system. The database will also be designed to show the data manipulation by the system.
-**Overview:**
+#### **Overview:**
 - Basic UI/UX for the overall system
 - Database design and visualization of manipulation of data
 
 ### Second Sprint
 For this sprint, the functionalities of the system including file transfer will be introduced. Including course material uploads, handing in assignments and quiz answers.
-**Overview:**
+#### **Overview:**
 - File transfer functionalities to add class materials, assignments and quizzes
 - File modification and deletion functionalities after uploads
 
@@ -94,7 +94,7 @@ This project is developed using Test-Driven Developement method. It is the best 
 |         |    What did you do yesterday?    | I was working on integrating the database with the backend | I finished the course start feature                           |
 |         | Did you encounter any obstacles? | No, I did not                                              | No, I did not                                                 |
 
-## Meeting 2
+### Meeting 2
 | Members |             Questions            | Monday                                                    | Tuesday                                                            |
 |---------|:--------------------------------:|-----------------------------------------------------------|--------------------------------------------------------------------|
 |  Samir  |      What will you do today?     | I will work on the quiz creation screen                   | I will continue working on the quiz creation screen                |
