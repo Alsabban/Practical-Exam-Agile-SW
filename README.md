@@ -74,3 +74,11 @@ The aim is to develop a fully-functional faculty system that enables full remote
 
 ## Convention
 For estimating story points, the ***modified Fibonacci Series*** is used {1,2,3,5,8,13,20,40,100}
+
+## Rationale
+This project is developed using Test-Driven Developement method. It is the best practice for agile methodologies.
+
+## Notes
+- The team finishes an average of **53 Story Points**.
+- A sprint takes **2 weeks**.
+
