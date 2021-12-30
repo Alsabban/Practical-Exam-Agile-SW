@@ -71,3 +71,6 @@ For this sprint, the functionalities of the system including file transfer will 
 
 ## Far Vision
 The aim is to develop a fully-functional faculty system that enables full remote learning and eliminate need for paper for assignments, quizzes and course projects. The program should be accessible by all students and faculty staff everywhere regardless of the device used. A reliable automatic grading system should be available where the grades and data can be read by both students and faculty staff but manipulated only by the staff. The system shall accept future changes including new features.
+
+## Convention
+For estimating story points, the ***modified Fibonacci Series*** is used {1,2,3,5,8,13,20,40,100}
