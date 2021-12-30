@@ -85,7 +85,7 @@ This project is developed using Test-Driven Developement method. It is the best 
 - A sprint takes **2 weeks**.
 
 ## Backlog
-![Product Backlog Image](Images/image_2021-12-30_231725.png "Sprint Backlog")
+![Product Backlog Image](Images/image_2021-12-30_231725.png "Product Backlog")
 
 
 ## Daily meetings examples
